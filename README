@@ -1,4 +1,8 @@
-boto 2.0b4
+boto ybot_2.0b4-1
+
+Version for yieldbot based off 2.0b4 with required backported fixes.
+
+
 13-Feb-2011
 
 Copyright (c) 2006-2011 Mitch Garnaat <mitch@garnaat.org>
